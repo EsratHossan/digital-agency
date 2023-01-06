@@ -8,11 +8,13 @@
     justify-content: space-around;
     background-color: gray;
     color: white;
-    text-decoration: none;
+   
 }
-.items, .link{
+.items, .links{
     display: flex;
     list-style: none;
+    text-decoration: none;
+    color: white;
     
 }
 .item{
